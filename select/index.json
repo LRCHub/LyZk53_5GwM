@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "あいのうた",
+  "base_artist": "大漠波新",
+  "createdAt": "2026-03-09T09:50:49.123439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly〜あいのうた〜",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/01_Swallowtail_Butterfly〜あいのうた〜_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly ~あいのうた~",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/02_Swallowtail_Butterfly_~あいのうた~_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly ～あいのうた～",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/03_Swallowtail_Butterfly_~あいのうた~_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly～あいのうた～",
+      "artist": "Tsuji Ayano",
+      "has_synced": true,
+      "path": "select/04_Swallowtail_Butterfly~あいのうた~_Tsuji_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あいのうた",
+      "artist": "大漠波新",
+      "has_synced": true,
+      "path": "select/05_あいのうた_大漠波新.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly～あいのうた～ - Swallowtail Butterfly -Aino Uta-",
+      "artist": "YEN TOWN BAND",
+      "has_synced": true,
+      "path": "select/06_Swallowtail_Butterfly~あいのうた~_-_Swallowtail_Butterfly_-Aino_Uta-_YEN_TOWN_BAND.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly ~あいのうた~",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/07_Swallowtail_Butterfly_~あいのうた~_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly～あいのうた～",
+      "artist": "YEN TOWN BAND",
+      "has_synced": true,
+      "path": "select/08_Swallowtail_Butterfly~あいのうた~_YEN_TOWN_BAND.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly ~あいのうた~",
+      "artist": "Chara",
+      "has_synced": false,
+      "path": "select/09_Swallowtail_Butterfly_~あいのうた~_Chara.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly 〜あいのうた〜",
+      "artist": "YEN TOWN BAND",
+      "has_synced": true,
+      "path": "select/10_Swallowtail_Butterfly_〜あいのうた〜_YEN_TOWN_BAND.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly~あいのうた~ - Remastered 2015",
+      "artist": "YEN TOWN BAND",
+      "has_synced": true,
+      "path": "select/11_Swallowtail_Butterfly~あいのうた~_-_Remastered_2015_YEN_TOWN_BAND.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あいのうた～believe～",
+      "artist": "Dual Flare",
+      "has_synced": false,
+      "path": "select/12_あいのうた~believe~_Dual_Flare.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あいのうた ~believe~",
+      "artist": "Dual Flare (Yamada Yuki & Yamada Natsumi)",
+      "has_synced": false,
+      "path": "select/13_あいのうた_~believe~_Dual_Flare_(Yamada_Yuki_&_Yamada_Natsumi).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly〜あいのうた〜 (JEWEL ver.)",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/14_Swallowtail_Butterfly〜あいのうた〜_(JEWEL_ver.)_Chara.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly 〜あいのうた〜",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/15_Swallowtail_Butterfly_〜あいのうた〜_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "あいのうた",
+      "artist": "佐咲紗花",
+      "has_synced": false,
+      "path": "select/16_あいのうた_佐咲紗花.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly 〜あいのうた〜",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/17_Swallowtail_Butterfly_〜あいのうた〜_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Swallowtail Butterfly 〜あいのうた〜",
+      "artist": "Tsuji, Ayano",
+      "has_synced": true,
+      "path": "select/18_Swallowtail_Butterfly_〜あいのうた〜_Tsuji,_Ayano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいのうた",
+      "artist": "大漠波新",
+      "has_synced": false,
+      "path": "select/pl_01_あいのうた_大漠波新.txt"
+    }
+  ]
+}
